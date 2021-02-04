@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Fabrika3DCarDraw.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\90531\Desktop\Fabrika3DCarDraw\.idea\.idea.Fabrika3DCarDraw\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
